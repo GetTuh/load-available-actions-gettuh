@@ -26,6 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.10.0",
+    "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "octokit": "^2.0.14",
     "string-sanitizer": "^2.0.2",
